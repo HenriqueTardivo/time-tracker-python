@@ -16,4 +16,13 @@ source ~/.zshrc # ou ~/.bashrc
 
 Agora é só rodar os comandos:
 
--
+- Iniciar uma tarefa
+  - `tt start 'NOME DA TAREFA'`
+- Finalizar uma tarefa
+  - `tt stop 'NOME DA TAREFA'`
+- Verificar tarefa em execuçao
+  - `tt status`
+- Verificar as tarefas realizadas no dia
+  - `tt report`
+
+O tempos vem formatado no formato `1h 30m`
