@@ -19,7 +19,7 @@ Agora é só rodar os comandos:
 - Iniciar uma tarefa
   - `tt start 'NOME DA TAREFA'`
 - Finalizar uma tarefa
-  - `tt stop 'NOME DA TAREFA'`
+  - `tt stop`
 - Verificar tarefa em execuçao
   - `tt status`
 - Verificar as tarefas realizadas no dia
